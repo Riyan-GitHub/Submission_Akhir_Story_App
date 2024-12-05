@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Submission Akhir Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Welcome to  StoryApps. If you have any questions about the application, please contact the admin!</string>
+    <string name="title_welcome_page">Welcome!</string>
+    <string name="title_signup_page">Please Fill in Your Data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please Enter Your Data</string>
+    <string name="title_login_page">Welcome!</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome!</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="name_required">Enter Name</string>
+    <string name="input_email">Enter Email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="input_pass">Enter Password</string>
+    <string name="pass_length">Password must be at least 8 characters</string>
+    <string name="not_valid_data">Invalid Data</string>
+    <string name="submit">Submit</string>
+    <string name="title">Your Title</string>
+    <string name="descriptions">Your Descriptions</string>
+    <string name="detail">Stories Details</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please Enter an Image First!</string>
+    <string name="add_story">Add Your Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal Maps</string>
+    <string name="satellite_type">Satellite Maps</string>
+    <string name="terrain_type">Terrain Maps</string>
+    <string name="hybrid_type">Hybrid Maps</string>
+    <string name="retry">Retry</string>
+</resources>

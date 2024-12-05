@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.submissionakhirstoryapp.MainActivity">
+    <item
+        android:id="@+id/maps"
+        android:title="@string/title_activity_maps"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_map_24" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_exit_24" />
+</menu>
